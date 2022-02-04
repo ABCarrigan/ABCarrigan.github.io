@@ -1,0 +1,51 @@
+body{
+    background-color: #d8d8d8;
+}
+#main{
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: rgb(187, 187, 187);
+}
+h2{
+    color:tan
+}
+p{
+    font-size: 16px;
+}
+#para1 {
+    font-size: 20px;
+    padding: 20px;
+}
+li{
+    font-style: italic;
+
+}
+a{
+    color: seagreen;
+}
+h1, h3{
+    font-style: italic;
+    padding: 20px;
+}
+#div1 {
+    background-color: rgb(46, 46, 46);
+    border: solid white
+}
+#form_header, #form_para {
+    color:white;
+    padding: 20px;
+}
+#img_me {
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+#header_welcome {
+height: 50px;
+display:-webkit-flex;
+display: flex;
+-webkit-align-items: center;
+align-items: center;
+-webkit-justify-content: center;
+justify-content: center;
+}
